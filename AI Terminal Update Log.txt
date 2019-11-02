@@ -1,0 +1,286 @@
+AI Command Terminal - Update Log
+================================
+
+ :: fix trans terminal channel and transceiver errors 
+	(not seeing off trans and untuned channels)
+ :: add AIDAN AI - code: LemonTree1738
+	if enter AG04220425 make everything SPAZ
+ :: add Commodore 64 and Commodore 128 colour schemes
+
+v1.8.6
+------------
+= Finished Transceiver Terminal (Beta) channels
+* Bug fixes
+
+
+v1.8.3
+------------
+= Added "temp" shortcut for programmers
+= Added help and instructions page to Transceiver T. (Beta)
+= Added 2K37 colour theme
+= Added "switch" command to switch AIs
+= Nickname help page now accessable
+* Transceiver Terminal bug fixes
+* Major update to Transceiver Terminal (Beta)
+* Updated alternate commands
+* Fixed extended help command bugs
+* Other bug fixes
+- Removed Gone colour theme
+
+
+v1.7.8
+------------
+= Added an option to enable full cmd commands
+= Added new custom color applier
+* Fixed errors in the help pages
+* Fixed major errors with Friday AI
+* Transceiver Terminal (Beta) huge bug fixes
+
+
+v1.7.4
+------------
+= Added Transceiver Terminal (Beta)
+* Updated AI selection interface
+* Minor bug fixes
+
+
+v1.7.0
+------------
+= Added Hiroshima AI (Semi-Japanese)
+* Debugging Portal bug fixes
+* Optimized all commands for new AIs
+* Fixed some spelling errors
+* Activated Friday AI (Beta)
+
+
+v1.6.7b
+------------
+* Fixed some Debuging Portal errors
+
+
+v1.6.7
+------------
+= Added a Debugging Portal
+= Added 'IP Renew' command
+= Added a Help message
+* Modified Help text
+* Edited the 'start write' command
+* Added more stable shutdown from logon
+* Fixed some easter eggs
+* Bug fixes
+
+
+v1.6.3
+------------
+= Added font colour Magenta
+* Nickname bug fixes
+* Modified the Help command
+* Modified the Color command
+
+
+v1.6.1
+------------
+* Major nickname improvements and integrations
+* Updated many commands
+* Bug fixes
+
+
+v1.5.9
+------------
+= Added nicknames beta
+
+
+v1.5.7b
+------------
+* Minor changes to the login page
+* Bug fixes
+
+
+v1.5.7
+------------
+= Friday Terminal Created (deactivated)
+* Seriously modified the eastereggs
+
+
+v1.5.3
+------------
+= Added the Matrix application
+
+
+v1.5.1b
+------------
+* Bug fixes and edited command triggers
+
+
+v1.5.1
+------------
+= Added more launchable applications
+* bug fixes
+
+
+v1.4.9
+------------
+= Added a few easter eggs
+= BEN. Terminal created
+* Updated many commands
+
+
+v1.4.5
+------------
+= Added many more launchable applications
+* Edited some variables
+
+
+v1.4.4
+------------
+* Modified the Help command
+* Modified many color themes
+
+
+v1.4.3
+------------
+* Edited the log In screen
+* Edited the AI selection screen
+
+
+v1.4.1b
+------------
+* Fixed the Help response bug
+* More bug fixes
+
+
+v1.4.1
+------------
+= Added the Start command
+= Added more alternate commands
+= Added the Glass colour theme
+= Added the Gone colour theme
+= Added the Defiant colour theme
+* Edited all applications
+* Modified the Help command
+* Changed the Lilypad colour theme
+* Bug fixes
+
+
+v1.3.8
+------------
+* Bug fixes
+
+
+v1.3.7
+------------
+= Genisys Terminal created
+* Bug fixes
+* Optimized most commands
+
+
+v1.3.3
+------------
+= Added a Number Guessing Game
+* Updated a few commands
+
+
+v1.3.1
+------------
+* Edited the backdoor
+
+
+v1.3.0
+------------
+= Backdoor added
+= Added a system user
+= Added a Website Selector
+= Added a PC Cleanup Utility
+* Updated to a new command layout
+* Edited, optimized and updated every command
+* Heaps of bug fixes
+* Redesigned syntax of options and commands
+- Removed duplicate commands
+
+
+v1.2.1
+------------
+= Added a Calculator
+= Added another easter-egg
+
+
+v1.1.8
+------------
+= Added the swag colour theme
+= Added a Passcode Generator
+* Bug fixes
+* Updated many commands
+
+
+v1.1.5
+------------
+= Added the hello command
+* Many bug fixes
+
+
+v1.1.3b
+------------
+= Added an easter-egg
+
+
+v1.1.3
+------------
+= Added the quit command
+= Added the logoff command
+= Added a few alternate commands
+- Removed the home command
+
+
+v1.1.2b
+------------
+- Removed line of code that caused random shutdowns
+
+
+v1.1.2
+------------
+- Erased cmd error glitch
+* Edited and optimized many commands
+
+
+v1.1.0
+------------
+= GLaDOS Terminal created
+= Added AI selection page
+* Many responses modified
+* A few new commands
+
+
+v1.0.7
+------------
+= Added new help command
+
+
+v1.0.5
+------------
+= New commands added
+- Removed and merged command help page
+* Optimised many commands
+* Minor colour adjustments
+
+
+v1.0.3
+------------
+= New commands added
+* Minor response adjustments
+
+
+v1.0.2
+------------
+* Terminal colours changed
+* Minor response adjustments
+
+
+v1.0.1
+------------
+= Jarvis Terminal created
+
+
+====================================
+Created by Jules Carboni    (c) 2015
+====================================
+Project began:         18 June, 2015
