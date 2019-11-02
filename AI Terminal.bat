@@ -337,6 +337,7 @@ echo [4] BEN.
 echo [5] Hiroshima
 echo.
 echo [X] Friday
+echo [Y] Aidan
 echo.
 :aiselectsyst
 set /p AI=Choice:
@@ -348,6 +349,7 @@ if "%AI%" == "3" goto cmdhelp
 if "%AI%" == "4" goto cmdhelp
 if "%AI%" == "5" goto cmdhelp
 if "%AI%" == "x" goto deb.fri.21
+if "%AI%" == "y" goto deb.ad.21
 goto aierrorsyst
 :deb.fri1
 echo.
@@ -363,6 +365,20 @@ echo Code incorrect.
 echo Please enter the code 314159 to continue.
 echo.
 goto deb.fri.21
+:deb.ad1
+echo.
+echo Please enter the code LemonTree1738 to continue.
+echo.
+:deb.ad.21
+set /p AI=Code:
+if %AI% == LemonTree1738 goto friday
+goto deb.ad.err1
+:deb.ad.err1
+echo.
+echo Code incorrect.
+echo Please enter the code LemonTree1738 to continue.
+echo.
+goto deb.ad.21
 :aierrorsyst
 echo.
 echo Unknown AI.
@@ -396,8 +412,7 @@ if "%AI%" == "3" goto cmdhelp
 if "%AI%" == "4" goto ben.temp
 if "%AI%" == "5" goto cmdhelp
 if "%AI%" == "314159" goto fri.temp
-if "%AI%" == "AG04220425" goto ad.temp
-if "%AI%" == "ag04220425" goto ad.temp
+if "%AI%" == "LemonTree1738" goto ad.temp
 goto aierror 
 :aierror
 echo.
@@ -453,6 +468,8 @@ if %AI%==4 goto ben.
 if %AI%==5 goto hiroshima
 if %AI%==314159 goto friday
 if %AI%==x goto friday
+if %AI%==LemonTree1738 goto friday
+if %AI%==y goto friday
 
 :account
 cd "%userprofile%\documents\cmdacoBin"
